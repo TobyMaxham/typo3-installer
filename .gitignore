@@ -1,3 +1,6 @@
+## PhpStorm
+.idea
+
 ## TYPO3 v4
 # Ignore serveral upload and file directories.
 /fileadmin/user_upload/
